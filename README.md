@@ -3,7 +3,7 @@ Rule Engine with AST This is a 3-tier application to evaluate user eligibility u
 
 
 # Rule Engine Application
-Hosted link: https://zeotap-internship-assignment1.onrender.com/
+Hosted link: https://zeotap-internship-assignment1.onrender.com
 
 ## Overview
 
@@ -16,17 +16,17 @@ This application is a rule engine that determines user eligibility based on attr
 
 - **Create Rules:** Define rules using a string format that gets converted into an AST.
   
-  <img width="377" alt="image" src="https://github.com/user-attachments/assets/0ffe41aa-7f9c-4fe1-9230-2091bbb16632">
+  <img width="377" alt="image" src="2.png">
 
 
 - **Combine Rules:** Combine multiple rules into a single AST for more complex evaluations.
   
-  <img width="376" alt="image" src="https://github.com/user-attachments/assets/63145818-6936-4763-8fbe-db65f264e4ff">
+  <img width="376" alt="image" src="3.png">
 
   
 - **Evaluate Rules:** Check if the given data meets the criteria defined by the AST.
   
-  <img width="375" alt="image" src="https://github.com/user-attachments/assets/041e664f-1711-4bbb-b107-50d5fb7909f4">
+  <img width="375" alt="image" src="4.png">
 
 
 - **Tree Visualization:** Define or Combine Rule would should show Tree Representation.
