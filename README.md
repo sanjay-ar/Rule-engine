@@ -48,7 +48,7 @@ This application is a rule engine that determines user eligibility based on attr
 1. **Clone the Repository**
    ```bash
    git clone "https://github.com/sanjay-ar/zeotap-internship-assignment1"
-   cd rule-engine
+   cd zeotap-internship-assignment1
    ```
 
 2. **Install Backend Dependencies**
