@@ -47,7 +47,7 @@ This application is a rule engine that determines user eligibility based on attr
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Santosh-2003-sahoo/App1-Rule-Engine-with-AST.git"
+   git clone "https://github.com/sanjay-ar/zeotap-internship-assignment1"
    cd rule-engine
    ```
 
