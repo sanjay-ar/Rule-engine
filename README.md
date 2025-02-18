@@ -3,7 +3,7 @@ Rule Engine with AST This is a 3-tier application to evaluate user eligibility u
 
 
 # Rule Engine Application
-Hosted link: https://zeotap-internship-assignment1.onrender.com
+Hosted link: https://zeotap-internship-assignment1.onrendewwwr.com
 
 ## Overview
 
